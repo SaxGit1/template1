@@ -2,5 +2,5 @@ streamlit>=1.26.0
 seaborn
 plotly
 scikit-learn
-joblib
+
 
