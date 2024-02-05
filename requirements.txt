@@ -1,3 +1,4 @@
 streamlit>=1.26.0
 seaborn
 plotly
+plotly.express
